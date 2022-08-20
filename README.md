@@ -1,2 +1,2 @@
 # dangerous-configs
-A better place for templates to start from.
+A better place to start from.
